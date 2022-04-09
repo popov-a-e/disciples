@@ -1,0 +1,25 @@
+{
+  "name": "disciples",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "../node_modules/.bin/vue-cli-service serve",
+    "build": "../node_modules/.bin/vue-cli-service build",
+    "lint": "../node_modules/.bin/vue-cli-service lint"
+  },
+  "dependencies": {
+    "core-js": "^3.8.3",
+    "interactjs": "^1.10.11",
+    "pinia": "^2.0.13",
+    "vue": "^3.2.13",
+    "vue-router": "^4.0.14"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-typescript": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "sass": "^1.32.7",
+    "sass-loader": "^12.0.0",
+    "typescript": "~4.5.5"
+  }
+}

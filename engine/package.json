@@ -1,0 +1,8 @@
+{
+  "name": "disciples-engine",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "typescript": "~4.5.5"
+  }
+}

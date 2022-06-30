@@ -1,4 +1,4 @@
-# disciples 2
+# disciples 2 RL
 Roadmap
 
 1) Сделать одиночную боевку Disciples II - https://ca80081.tmweb.ru/htmlwithlists.html

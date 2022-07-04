@@ -1,6 +1,9 @@
 {
   "name": "root",
   "private": true,
+  "scripts": {
+    "install": "lerna bootstrap --hoist"
+  },
   "devDependencies": {
     "lerna": "^4.0.0"
   }

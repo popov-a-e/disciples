@@ -1,12 +1,20 @@
-# disciples 2 RL
-Roadmap
+<p align="center">
+<img alt="Disciples logo" width="400" src="assets/logo.png">
+</p>
 
-1) Сделать одиночную боевку Disciples II - https://ca80081.tmweb.ru/htmlwithlists.html
+<h1>Disciples II Typescript (WIP)</h1>
 
-2) Поискать подходящий RL алгоритм для боевки Disciples II - https://wandb.ai/sergey3784/ghostsandpirates2/runs/2wolc4d8?workspace=user-sergey3784
+<p>This library is an implementation of Disciples II engine in Typescript </p>
+<p>Components:</p>
+<ul>
+  <li>Headless engine (without frontend)</li>
+  <li>Web Frontend in Vue.js</li>
+  <li>Socket.io server for multiplayer</li>
+  <li>Serializer for RL agents</li>
+</ul>
 
-3) Сделать сетевую боевку Disciples II 
+<p>The library is WIP so not all of the components are ready</p>
 
-4) Сделать RL алгоритм для прохождения одной миссии
-
-5) Сделать RL алгоритм для Self-play
+<h2>Authors</h2>
+<p>Alex Popov <a href="">@popov-a-e</a>, email: <a href="mailto:popov-a-e@yandex.ru">popov-a-e@yandex.ru</a></p>
+<p>Sergey Barichev <a href="https://github.com/Alian3785">@Alian3785</a>, email: <a href="mailto:alian3785@gmail.com">alian3785@gmail.com</a></p>
